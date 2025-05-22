@@ -11,6 +11,7 @@
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
 - [Useful Links](#-useful-links)
+- [Limitations and Future Work](#-Limitations-and-Future-Work)
 - [Team](#-team)
 - [Acknowledgments](#-acknowledgments)
 - [License](#-license)
