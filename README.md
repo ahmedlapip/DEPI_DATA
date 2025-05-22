@@ -1,5 +1,5 @@
 
-# 🌍 Climate Insight Project – GitHub Report
+# 🌍 Climate Change Project
 
 ## 💡 Introduction
 Egypt has a unique and diverse climate — from rich soil types to varying temperatures and high solar radiation. This natural diversity opens doors to incredible opportunities in agriculture, renewable energy, and sustainable development.
@@ -109,12 +109,17 @@ Uses K-Means to group areas with similar climate traits, providing:
 
 ## 🚧 Limitations and Future Work
 **Limitations:**
-Simplified Assumptions in Clustering: The clustering model is based solely on climatic features; it doesn’t yet include socio-economic or infrastructure data that may affect implementation.
-Limited Vegetation Recommendations: The plant suggestions are based on basic climate compatibility and don’t yet account for market demand, soil nutrients, or water availability.
+
+- Simplified Assumptions in Clustering: The clustering model is based solely on climatic features; it doesn’t yet include 
+  Socio-economic or infrastructure data that may affect implementation.
+- Limited Vegetation Recommendations: The plant suggestions are based on basic climate compatibility and don’t yet account 
+  for market demand, soil nutrients, or water availability.
 
 **Future Work:**
-Incorporate Socio-economic Data: Combine environmental insights with socio-economic indicators to support more realistic planning (e.g., cost, labor availability).
-Mobile Dashboard: Create a mobile-friendly version of the dashboard for use by farmers and field engineers.
+
+- Incorporate Socio-economic Data: Combine environmental insights with socio-economic indicators to support more realistic 
+  planning (e.g., cost, labor availability).
+- Mobile Dashboard: Create a mobile-friendly version of the dashboard for use by farmers and field engineers.
 
 ## 👥 Team
 This project was developed by a team of data analysis trainees as part of the final capstone project for the Digital Egypt Pioneers Initiative. The team members are:
