@@ -1,23 +1,24 @@
 # 🌍 Climate Change Project
 
 ## 📋 Table of Contents
-- [Introduction](#💡-introduction)
-- [Data Overview](#📊-data-overview)
-- [Problem Statement](#📌-problem-statement)
-- [Objectives](#🎯-objectives)
-- [Alignment with Egypt Vision 2030](#🧭-alignment-with-egypt-vision-2030)
-- [Project Steps](#📊-project-steps)
-  - [Data Collection and Cleaning](#1️⃣-collecting-and-cleaning-climate-data)
-  - [Interactive Dashboards](#2️⃣-creating-5-interactive-dashboards)
-  - [Predictive Models](#3️⃣-predictive-and-analytical-models-🤖)
-- [Project Structure](#📁-project-structure)
-- [Tech Stack](#🧠-tech-stack)
-- [Getting Started](#🚀-getting-started)
-- [Useful Links](#🔗-useful-links)
-- [Limitations and Future Work](#🚧-limitations-and-future-work)
-- [Team](#👥-team)
-- [Acknowledgments](#🙏-acknowledgments)
-- [License](#📝-license)
+- [Introduction](#introduction)
+- [Data Overview](#data-overview)
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [Alignment with Egypt Vision 2030](#alignment-with-egypt-vision-2030)
+- [Project Steps](#project-steps)
+  - [1️⃣ Collecting and Cleaning Climate Data](#1️⃣-collecting-and-cleaning-climate-data)
+  - [2️⃣ Creating 5 Interactive Dashboards](#2️⃣-creating-5-interactive-dashboards)
+  - [3️⃣ Predictive and Analytical Models 🤖](#3️⃣-predictive-and-analytical-models-🤖)
+- [Project Structure](#project-structure)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Useful Links](#useful-links)
+- [Limitations and Future Work](#limitations-and-future-work)
+- [Team](#team)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+
 
 ## 💡 Introduction
 
