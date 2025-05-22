@@ -107,6 +107,15 @@ Uses K-Means to group areas with similar climate traits, providing:
 **Sustainable Architecture Solutions Across Hot Regions:**  
 ➤ Use: Wind catchers, courtyards, green roofs, and geothermal cooling improve indoor comfort without harming the environment
 
+## 🚧 Limitations and Future Work
+**Limitations:**
+Simplified Assumptions in Clustering: The clustering model is based solely on climatic features; it doesn’t yet include socio-economic or infrastructure data that may affect implementation.
+Limited Vegetation Recommendations: The plant suggestions are based on basic climate compatibility and don’t yet account for market demand, soil nutrients, or water availability.
+
+**Future Work:**
+Incorporate Socio-economic Data: Combine environmental insights with socio-economic indicators to support more realistic planning (e.g., cost, labor availability).
+Mobile Dashboard: Create a mobile-friendly version of the dashboard for use by farmers and field engineers.
+
 ## 👥 Team
 This project was developed by a team of data analysis trainees as part of the final capstone project for the Digital Egypt Pioneers Initiative. The team members are:
 - Ahmed Ashraf Labib
