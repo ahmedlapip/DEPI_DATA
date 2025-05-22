@@ -1,0 +1,11 @@
+ALLSKY_SFC_UV_INDEX,All Sky Surface UV Index,Unitless,UV exposure risk index,Sunscreen product demand
+ALLSKY_SFC_UVA,All Sky Surface UVA Irradiance,W/m²,UVA radiation intensity,Material durability testing
+ALLSKY_SFC_UVB,All Sky Surface UVB Irradiance,W/m²,UVB radiation intensity,Health advisory systems
+AIRMASS,Air Mass,Unitless,Optical path length through atmosphere,Satellite calibration
+RHOA,Surface Air Density,kg/m³,Mass per unit air volume,Wind energy production
+TO3,Total Column Ozone,Dobson Units (DU),Atmospheric ozone concentration,UV protection advisories
+CLRSKY_DAYS,Clear Sky Days,days/year,Annual cloud-free days,Solar investment analysis
+EVLAND,Evaporation Land,mm/day,Land surface evaporation rate,Water allocation planning
+MIDDAY_INSOL,Midday Insolation,W/m²,Solar irradiance at solar noon,Daylighting architecture
+PSH,Peak Sun Hour,hours/day,Effective full-power sunlight hours,Off-grid solar design
+Z0M,Surface Roughness,m,Terrain aerodynamic roughness,Urban noise reduction studies
