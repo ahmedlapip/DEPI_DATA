@@ -1,29 +1,29 @@
 # 🌍 Climate Change Project
 
 ## 📋 Table of Contents
-- [Introduction](#-introduction)
-- [Data Overview](#-data-overview)
-- [Problem Statement](#-problem-statement)
-- [Objectives](#-objectives)
-- [Alignment with Egypt Vision 2030](#-alignment-with-egypt-vision-2030)
-- [Project Steps](#-project-steps)
-- [Project Structure](#-project-structure)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Useful Links](#-useful-links)
-- [Limitations and Future Work](#-Limitations-and-Future-Work)
-- [Team](#-team)
-- [Acknowledgments](#-acknowledgments)
-- [License](#-license)
+- [Introduction](#💡-introduction)
+- [Data Overview](#📊-data-overview)
+- [Problem Statement](#📌-problem-statement)
+- [Objectives](#🎯-objectives)
+- [Alignment with Egypt Vision 2030](#🧭-alignment-with-egypt-vision-2030)
+- [Project Steps](#📊-project-steps)
+  - [Data Collection and Cleaning](#1️⃣-collecting-and-cleaning-climate-data)
+  - [Interactive Dashboards](#2️⃣-creating-5-interactive-dashboards)
+  - [Predictive Models](#3️⃣-predictive-and-analytical-models-🤖)
+- [Project Structure](#📁-project-structure)
+- [Tech Stack](#🧠-tech-stack)
+- [Getting Started](#🚀-getting-started)
+- [Useful Links](#🔗-useful-links)
+- [Limitations and Future Work](#🚧-limitations-and-future-work)
+- [Team](#👥-team)
+- [Acknowledgments](#🙏-acknowledgments)
+- [License](#📝-license)
 
 ## 💡 Introduction
 
 Egypt has a unique and diverse climate — from rich soil types to varying temperatures and high solar radiation. This natural diversity opens doors to incredible opportunities in *agriculture, **renewable energy, and **sustainable development*.
 
 However, unlocking this potential starts with one key factor: *understanding our climate accurately and in-depth*. That's where our project comes in — transforming climate data into actionable insights.
-
-![Dashboard Overview](src/Dash1.png)
-Figure 1: Main Dashboard Overview
 
 ---
 
@@ -127,19 +127,20 @@ All datasets were cleaned and pre-processed for accurate analysis.
 ### 2️⃣ Creating 5 Interactive Dashboards
 Each dashboard visualizes a different climate factor across time and space:
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
-![Temperature Dashboard](src/Dash2.png)
-Figure 2: Temperature Analysis Dashboard
+![Temperature Dashboard](src/Dash1.png)
+*Figure 1: Temperature Analysis Dashboard*
 
-![Solar Radiation Dashboard](src/Dash3.png)
-Figure 3: Solar Radiation Analysis Dashboard
+![Solar Radiation Dashboard](src/Dash2.png)
+*Figure 2: Solar Radiation Analysis Dashboard*
 
-![Wind Dashboard](src/Dash4.png)
-Figure 4: Wind Analysis Dashboard
+![Wind Dashboard](src/Dash3.png)
+*Figure 3: Wind Analysis Dashboard*
 
-![Rainfall Dashboard](src/Dash5.png)
-Figure 5: Rainfall Analysis Dashboard
-</div>
+![Rainfall Dashboard](src/Dash4.png)
+*Figure 4: Rainfall Analysis Dashboard*
+
+![Soil Dashboard](src/Dash5.png)
+*Figure 5: Soil Analysis Dashboard*
 
 These dashboards offer insights into how each factor behaves *seasonally* and *geographically*.
 
@@ -149,21 +150,21 @@ These dashboards offer insights into how each factor behaves *seasonally* and *g
 Uses *LSTM* to predict future climate conditions and support future planning.
 
 ![LSTM Model Interface](src/LSTM1.png)
-Figure 6: LSTM Model Interface
+*Figure 6: LSTM Model Interface*
 
 ![LSTM Predictions](src/LSTM2.png)
-Figure 7: LSTM Model Predictions
+*Figure 7: LSTM Model Predictions*
 
 #### Geographic Clustering Model
 Uses *K-Means* to group areas with similar climate traits, providing:
 * Best planting seasons
 * Suggested crops for each area
 
-![Agricultural Clusters 1](src/Agriclusters1.png)
-Figure 8: Agricultural Clusters Overview
+![Agricultural Clusters Overview](src/Agricluster1.png)
+*Figure 8: Agricultural Clusters Overview*
 
-![Agricultural Clusters 2](src/Agriclusters2.png)
-Figure 9: Detailed Agricultural Clusters
+![Detailed Agricultural Clusters](src/Agricluster2.png)
+*Figure 9: Detailed Agricultural Clusters*
 
 ---
 
@@ -258,12 +259,12 @@ Figure 12: Data Analysis Features
 ---
 ## 🚧 Limitations and Future Work
 *Limitations:*
-Simplified Assumptions in Clustering: The clustering model is based solely on climatic features; it doesn’t yet include socio-economic or infrastructure data that may affect implementation.
-Limited Vegetation Recommendations: The plant suggestions are based on basic climate compatibility and don’t yet account for market demand, soil nutrients, or water availability.
+Simplified Assumptions in Clustering: The clustering model is based solely on climatic features; it doesn't yet include socio-economic or infrastructure data that may affect implementation.
+Limited Vegetation Recommendations: The plant suggestions are based on basic climate compatibility and don't yet account for market demand, soil nutrients, or water availability.
 
 *Future Work:*
 Incorporate Socio-economic Data: Combine environmental insights with socio-economic indicators to support more realistic planning (e.g., cost, labor availability).
-Mobile Dashboard: Create a mobile-friendly version of the dashboard for use by farmers and field engineers.
+Mobile Dashboard: Create a mobile-friendly version of the dashboard for use by farmers and field engineers.
 
 ## 👥 Team
 This project was developed by a team of data analysis trainees as part of the final capstone project for the *Digital Egypt Pioneers Initiative*. The team members are:
