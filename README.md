@@ -133,5 +133,5 @@ This project was developed by a team of data analysis trainees as part of the fi
 ## 🙏 Acknowledgments
 This project was delivered as the final graduation project for the Digital Egypt Pioneers Initiative — an initiative by the Ministry of Communications and Information Technology (MCIT) in Egypt.
 Special thanks to:
-- **CLS (Creative Learning Solutions)** – Our training partner who supervised our learning journey and project development.
-- **Dr. Alaa Abdel-Moaty** – Our lead instructor, whose guidance and support were fundamental to our success.
+- **CLS (Learning Solutions)** – Our training company who supervised our learning journey and project development.
+- **Dr. Alaa AbdelMoaty** – Our lead instructor, whose guidance and support were fundamental to our success.
