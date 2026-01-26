@@ -168,7 +168,7 @@ Uses *K-Means* to group areas with similar climate traits, providing:
 *Figure 9: Detailed Agricultural Clusters*
 
 ---
-
+```
 ## 📁 Project Structure
 
 DEPI_DATA/
@@ -186,7 +186,7 @@ DEPI_DATA/
 │    └──application.py   # Main Streamlit app
 ├── requirements.txt     # Project dependencies
 └── README.md           # Project documentation
-
+```
 
 ---
 
